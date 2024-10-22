@@ -1,0 +1,9 @@
+a. ¿Cuál algoritmo es más rápido y por qué?
+QuickSort es mas rapido que bubbleSort esto se debe a la manera en la que se recorre la lista, mientras que en bubble sort
+se recorre la lista de la manera tradicional comparando todos los elementos con sus "vecinos" en quick sort se toma un elemento 
+como pivote y se parte la lista esto hara que finalmente el pivote quede en medio y la lista quede ordenada correctamente, al
+dividir la lista el tiempo de ejecucion se reduce ya que la lista que se recorre es mas pequena
+
+b. ¿El tiempo de ejecución será el mismo si la implementación del
+algoritmo es iterativa o recursiva?
+No el tiempo de ejecucion varia entre la implementacion recursiva e iterativa, esto debido al uso de recursos como memoria 
